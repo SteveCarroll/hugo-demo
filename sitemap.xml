@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://stevecarroll.github.io/hugo-demo/about/</loc>
+    <lastmod>2025-02-16T14:25:58-07:00</lastmod>
+  </url><url>
+    <loc>https://stevecarroll.github.io/hugo-demo/</loc>
+    <lastmod>2025-02-16T14:25:58-07:00</lastmod>
+  </url><url>
     <loc>https://stevecarroll.github.io/hugo-demo/categories/</loc>
   </url><url>
     <loc>https://stevecarroll.github.io/hugo-demo/docs/</loc>
-  </url><url>
-    <loc>https://stevecarroll.github.io/hugo-demo/</loc>
   </url><url>
     <loc>https://stevecarroll.github.io/hugo-demo/tags/</loc>
   </url>
