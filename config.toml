@@ -1,0 +1,17 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Hugo Demo"
+theme = "ananke"
+
+[params]
+  homeInfoParams = { Title = "Welcome to My Hugo Site", Content = "This is a demo site using Hugo and the Ananke theme." }
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+
+[[menu.main]]
+  identifier = "docs"
+  name = "Docs"
+  url = "/docs/"
+  weight = 10
+
