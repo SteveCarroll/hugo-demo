@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://stevecarroll.github.io/hugo-demo/"
 languageCode = "en-us"
 title = "Hugo Demo"
 theme = "ananke"
